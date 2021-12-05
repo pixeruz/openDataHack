@@ -6,6 +6,7 @@ OpenDataHack uchun tuzilgan dastur
 
 -   Client: https://github.com/muhammadyunusuz/unipos_client
 -   Backend: https://github.com/mabrur-h/uniPOS-backend
+-   Telegram bot: https://github.com/IlhomMusayev/UniPOSbot
 
 ## Natijalar
 
