@@ -17,4 +17,4 @@ OpenDataHack uchun tuzilgan dastur
 
 ## Prezentatsiya
 
--   Slides: https://slides.com/d/Y1wUXkI/live#/13
+-   Slides: https://slides.com/muhammad_yunusoff/deck-7c4d89
